@@ -1,1 +1,1 @@
-# TP2
+# Conception d'une monnaie locale avec système de fidélité
