@@ -1,3 +1,4 @@
 # Conception d'une monnaie locale avec système de fidélité
-PARASSOURAMIN Sivadjy
-MONDIA Raphaël 
+- Quelle sera sa valeur ? 
+- Qui l'émettra ? En quelle quantité ? Sera-t-il possible d'un créer de nouveaux ? D'en détruire ?
+- Faudra-t-il être authentifié pour en posséder ? pour en transmettre ? Si oui, par qui ?
