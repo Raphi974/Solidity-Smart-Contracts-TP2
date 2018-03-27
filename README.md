@@ -1,4 +1,6 @@
 # Conception d'une monnaie locale avec système de fidélité
+# PARASSOURAMIN Sivadjy - MONDIA Raphaël 
+
 - Quelle sera sa valeur ? 
 Une monnaie indéxée sur l'euro
 - Qui l'émettra ? En quelle quantité ? Sera-t-il possible d'un créer de nouveaux ? D'en détruire ?
