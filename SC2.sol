@@ -118,7 +118,8 @@ contract CabotCoin is Token {
         throw;     
     }
     
-    // Toujours besoin d'une fonction kill ??
-
+    function kill() isowner() public {
+        selfdestruct(owner);
+    }
     
 }
